@@ -1,7 +1,8 @@
 
 ## Tien Anh Khoi Tran's Porfolio
 
-I am a computer science major at SUF and I plan on graduating in 2029.
+I am a computer science major at CSUF and I plan on graduating in 2029.
+https://github.com/TienT13
 
 ## Favorite CPSC 120L Labs
 
