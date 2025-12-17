@@ -8,13 +8,13 @@ https://github.com/TienT13
 
 * Lab 3:
 
-    I enjoyed both parts of this lab because it was easy to understand and fun to complete. Through this lab, I learned how to integrate calculations and formulas into a program, such as calculating date differences and determining BMR.
+    Lab 3 was one of my favorite labs because it was easy to follow and enjoyable to work on. I liked this lab because it showed me how calculations and formulas can be integrated into a program to solve real problems. Through this lab, I learned how to calculate date differences and determine BMR values, which helped me understand how math and programming work together.
 
 * Lab 5 part 2:
 
-    This was my second favorite lab because it taught me how to convert decimal feet into feet and inches. I found this lab particularly interesting because it helped me apply more complex formulas within my programs.
+    Lab 5 Part 2 was one of my favorite labs because it challenged me to apply more complex formulas in my code. I found it interesting because I learned how to convert decimal feet into feet and inches accurately. This lab helped me improve my problem-solving skills and showed me how mathematical conversions can be implemented correctly in a program.
 
 * Lab 9 part 2:
 
-    I really enjoyed this lab because it taught me how to use loops to perform repeated tasks within a program. In this lab, we used a loop to find a secret number. This activity was engaging and helped me better understand how loops work. My partner and I had a lot of fun completing this lab together.
+    Lab 9 Part 2 was a favorite because it helped me better understand how loops work in programming. I enjoyed this lab because we used a loop to repeatedly test values until the correct secret number was found. From this lab, I learned how loops can automate repetitive tasks and make programs more efficient, and my partner and I had fun working through the logic together.
 
